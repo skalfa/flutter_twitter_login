@@ -11,6 +11,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  test: ^1.16.5
 
 flutter:
   plugin:
@@ -18,4 +19,4 @@ flutter:
     pluginClass: TwitterLoginPlugin
 
 environment:
-  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
